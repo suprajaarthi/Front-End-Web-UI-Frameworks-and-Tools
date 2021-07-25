@@ -12,6 +12,13 @@ Implemented
 
 https://week2-badges.netlify.app/ 
 
+
+Implemented 
+* Carousel 
+* Card 
+* Input group
+* Forms 
+
 https://modern-restaurant.netlify.app/ 
 
 https://confusion-restaurant-ui.netlify.app/ 
