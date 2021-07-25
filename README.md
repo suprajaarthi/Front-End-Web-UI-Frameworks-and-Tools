@@ -1,7 +1,7 @@
 # Front-End-Web-UI-Frameworks-and-Tools
 Coursera Assignment : Bootstrap4 
 
-https://week2-badges.netlify.app/  Developed using Bootstrap4,HTML 
+https://week2-badges.netlify.app/  Designed using Bootstrap4, HTML 
 * Navbar 
 * Container 
 * Grid 
@@ -10,7 +10,7 @@ https://week2-badges.netlify.app/  Developed using Bootstrap4,HTML
 * Footer
 * Buttons
 
-https://modern-restaurant.netlify.app/  Implemented Jquery,SCSS
+https://modern-restaurant.netlify.app/  Implemented Jquery, SCSS
 * Carousel 
 * Card 
 * Input group
