@@ -1,7 +1,7 @@
 # Front-End-Web-UI-Frameworks-and-Tools
 Coursera Assignment : Bootstrap4 
 
-Implemented
+https://week2-badges.netlify.app/  Implemented
 * Navbar 
 * Container 
 * Grid 
@@ -10,15 +10,16 @@ Implemented
 * Footer
 * Buttons
 
-https://week2-badges.netlify.app/ 
-
-
-Implemented 
+https://modern-restaurant.netlify.app/  Implemented 
 * Carousel 
 * Card 
 * Input group
 * Forms 
 
-https://modern-restaurant.netlify.app/ 
 
-https://confusion-restaurant-ui.netlify.app/ 
+https://confusion-restaurant-ui.netlify.app/ Developed using Angular 
+* Property Binding 
+* Material theme 
+* Material icons 
+* Dynamic Routing 
+
