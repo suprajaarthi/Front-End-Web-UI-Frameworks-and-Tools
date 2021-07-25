@@ -1,4 +1,4 @@
-[Live Demo](https://ristorante-con-fusion-2021.netlify.app/)
+[Live Demo](https://modern-restaurant.netlify.app/)
 
 page one:
 ![alt text](https://i.ibb.co/m6gKW6t/screencapture-127-0-0-1-5500-ristorante-con-fusion-index-html-2021-02-21-05-08-11.png)
