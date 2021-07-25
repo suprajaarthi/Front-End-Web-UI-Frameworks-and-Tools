@@ -2,10 +2,8 @@
 Coursera Assignment : Bootstrap4 
 
 
-https://modern-restaurant.netlify.app/ 
-
-
 https://week2-badges.netlify.app/ 
 
+https://modern-restaurant.netlify.app/ 
 
 https://confusion-restaurant-ui.netlify.app/ 
