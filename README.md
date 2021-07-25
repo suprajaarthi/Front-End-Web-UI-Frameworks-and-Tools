@@ -3,6 +3,12 @@ Coursera Assignment : Bootstrap4
 
 Implemented
 * Navbar 
+* Container 
+* Grid 
+* Breadcrumb
+* Modal (Dialog) 
+* Footer
+* Buttons
 
 https://week2-badges.netlify.app/ 
 
