@@ -1,0 +1,15 @@
+Here are some helpful UX design resources to keep in mind as you learn. You might even want to bookmark some of these
+websites on your computer to review on an ongoing basis!
+
+Interaction Design Foundation: A library of open-source UX design resources, including new articles published every day.
+There are also local meet-ups (virtual and in-person) that are free to attend and open to everyone. 
+
+Adobe XD Ideas: A blog curated for entry-level UX designers.
+You’ll find inspiring examples of great design, valuable career tips, and more.
+
+UX Collective on Medium: An article platform with stories on user experience, visual design, product design, and more.
+Articles on Medium are written by a large variety of writers and cover a range of topics.  
+
+Nielsen Norman Group: Research-based UX guidance, including a ton of helpful articles about the design process,
+research methods, and user testing, which you'll learn about later in the certificate program.
+
