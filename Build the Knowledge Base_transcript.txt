@@ -1,0 +1,148 @@
+Hello, everyone.
+Welcome to the guided Project about business analysis
+and process management. I am Mahi and I will be your instructor
+for this project.
+I have around four years of teaching experience in the field
+of business informatics and a master of science degree
+specialized in Business Process Analysis Let's now have a brief
+overview of the Rhyme platform on the right side panel.
+You see my cloud desktop I am moving my cursor right now
+on the left side.
+The big cloud desktop you see is yours.
+All right.
+This is a hands on project, so please watch what I'm doing.
+And follow those steps on your own cloud desktop, if you need to
+pause my instructions at any time.
+Please bring the cursor on top of my cloud desktop and click
+the pause button, if I am going too fast or too slow.
+You can increase or decrease the speed of the video
+by clicking the speed button below the pause button.
+In this project, you will learn the basic steps of analyzing
+business problems and solving them from a process view
+through case based learning.
+By the end of this project, as a business analyst or manager
+or a process director.
+You will be able to model and analyze an entire business
+scenario from a process view which will enable you to one.
+Define your business processes, their objectives and how
+they flow within the organization context to identify
+the different process stakeholders and the rules in your
+business processes finally evaluate the current.
+This is from a process view.
+Breakdown the problems and find an applicable business
+solution.
+To make the best out of this course, you should be familiar
+with the basics of Lucidchart as a process modelling tool
+which you will use for free to model
+and analyze business process activities for each task in your
+project, I will demonstrate to you the different concepts
+to a pre established case study, and then you will be asked to do
+the same for a similar case that was designed for the sole
+purpose of practicing through the entire project upon which
+you will learn.
+Business analysis and process management. The case study that I
+will run you through involves an online boutique concept
+store that offers home styling, services and home decor
+items. It has specialized in providing finishing, furnishing
+and styling interior needs to each client.
+The case you will practice with involves a yoga studio that
+is looking to hire new yoga teachers.
+Okay, now let's dive into task one In our business analysis
+and process management journey, in this task,
+We will discuss how to identify the main business aspects
+in its major business needs let's start with identifying
+the business.
+In order to do this, kindly pause your video and sign
+into your Google account.
+Now open the Google sheet you can see in the desktop now
+called Mahi's Styling Business, and as soon as it opens
+press file, make a copy.
+Now you will be working on your copy, which you can easily
+find later on your drive. 
+As analysts, we approach any business scenario through answering this series
+of questions.
+I will answer each question for my styling business,
+and you will follow me in doing that.
+And then after we're done with this exercise, you will get
+to practice on your own.
+in your yoga studio case. Each time you answer a question
+for the styling business, pause the video and take the time
+you need.
+Let's start by answering the first question through listing
+the products of service that the business offers now who
+are your target 
+Customers? describe them in your own words, for example, even
+specify their demographics, including their gender indication.
+You can also go as deep as described their interests
+and their personal characteristics.
+Now write down your ultimate goal that your business is
+to achieve.
+In the long term.
+They could be multiple ones.
+The next question allows you to think of your business
+timeline with regards to fulfilling your objectives.
+Are you still starting up your business?
+Or are you now well established but struggling to grow
+beyond a certain point?
+Have your product matured and you're still searching for ways
+to create a new fertile product.
+After you specify the phase your business is currently going
+through, you may take a brief look at the competition
+in the market you operate in and evaluate where you stand
+in comparison to them.
+Are you in the top market leaders or are you still struggling
+to prove yourself?
+Okay, you can now check my version of your yoga studio business
+identification plan or my ancestors previous questions that
+are shown on my cloud desktop here now that we
+have developed a clear, holistic view of your major
+business aspects, you should end up with texts like the
+one I showed you in the previous document, and now you
+can dig into a business details as much as you can, as this
+will always provide you with a more clear view and help
+you later on in the project.
+Now that your goal
+is clear
+You should now also be able to tell what you need to achieve
+this goal and sell your product or service to
+target customers in a way that improves your status
+in the market.
+Pause the video and start listing those business needs
+Hi again!
+If you check my sample of the business needs list, you
+will find that they reflect the identity of the business that
+we cleared up in the previous exercise, for example, simply
+because it's an online boutique store.
+Then we should need a good qualified UI or UX designer
+for the website.
+Good. Now I need you to pause
+the video and create a similar document for your own yoga studio?
+case remember, you're own a yoga studio you that
+it's still starting up and looking to recruit new 
+yoga teachers.
+Now go ahead and create the document through answering these
+five questions.
+Perfect! Now
+you should have edited your copy of Mahi's Styling Business
+and created your own yoga studio business.
+And this is a sample that I created for you to check and see
+if you're on the right track or not.
+You can find this document as a copy in your desktop.
+Please.
+If you need to edit anything, this document make a copy,
+as we did in the previous exercise.
+And as you can see here, my business needs
+list again reflects the identity of the business.
+For example, it needs to develop a team of qualified, dynamic
+individuals, given that the studios looking to hire new yoga
+instructors and people who are well aligned with the image
+that they're trying to depict. Great.
+That wraps up this task in which we learned about how
+we establish a business identity and understand our main
+business.
+needs. You now have created
+You have created the base needed to build on and eventually
+start analyzing.
+business problems. In the next task we will discuss.
+business processes in terms of definition, components as well
+as application in a business context.
